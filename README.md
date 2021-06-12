@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **React + Firebase**
-
-- 🌱 I’m currently learning **NodeJs**
+- 🔭 I’m currently working on **ReactJS + Firebase + Node.js**
 
 - 👯 I’m looking to collaborate on **Reactjs Projects**
 
