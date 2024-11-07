@@ -1,12 +1,15 @@
-Hi, I'm Vineer
+Hi, I'm is Vineer
 ==============================================================================================================================
+
+Software Engineer
+-----------------
 
 I'm a Full Stack Developer with a deep passion for exploring the core aspects of software development. My journey in tech has been driven by curiosity and a desire to build innovative solutions that make a difference.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nagavineerpasam@gmail.com](mailto:nagavineerpasam@gmail.com)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on cool, innovative full stack projects
+* 🧠  I'm learning Next.js,
+* 🤝  I'm open to collaborating on Cool, innovative full stack projects
 
 ### Skills
 
