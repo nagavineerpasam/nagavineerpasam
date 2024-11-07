@@ -1,8 +1,4 @@
-Hi, I'm is Vineer
-==============================================================================================================================
-
-Software Engineer
------------------
+Hi, I'm Vineer
 
 I'm a Full Stack Developer with a deep passion for exploring the core aspects of software development. My journey in tech has been driven by curiosity and a desire to build innovative solutions that make a difference.
 
