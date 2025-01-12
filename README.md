@@ -4,7 +4,6 @@ I'm a Full Stack Developer with a deep passion for exploring the core aspects of
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nagavineerpasam@gmail.com](mailto:nagavineerpasam@gmail.com)
-* 🧠  I'm learning Next.js,
 * 🤝  I'm open to collaborating on Cool, innovative full stack projects
 
 ### Skills
